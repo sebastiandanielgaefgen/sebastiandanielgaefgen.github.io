@@ -67,13 +67,13 @@ var APP_DATA = {
           "yaw": 1.6441321714669428,
           "pitch": -0.16378229193285776,
           "title": "existing",
-          "text": "Text"
+          "text": “<img src= images/existing.jpg>”
         },
         {
           "yaw": 2.8582476762667763,
           "pitch": -0.2311139643259157,
           "title": "blooms<br>",
-          "text": "Text"
+          "text": “<img src= images/blooming.jpg>”
         }
       ]
     },
@@ -114,7 +114,7 @@ var APP_DATA = {
           "yaw": 0.8559883526375103,
           "pitch": -0.2696650307947692,
           "title": "floor_2",
-          "text": "<br>"
+          "text": “<img src= images/floor_2.jpg>”
         },
         {
           "yaw": -0.2556539569429166,
@@ -126,19 +126,19 @@ var APP_DATA = {
           "yaw": 0,
           "pitch": 0,
           "title": "<div>floor_2</div>",
-          "text": "Text"
+          "text": “<img src= images/floor_2.jpg>”
         },
         {
           "yaw": -0.2566272486730625,
           "pitch": -0.5034576359878464,
           "title": "floor_1<br>",
-          "text": "Text"
+          "text": “<img src= images/floor_1.jpg>”
         },
         {
           "yaw": 2.1658118470626775,
           "pitch": -0.24941808161836398,
           "title": "floor_3<br>",
-          "text": "Text"
+          "text": “<img src= images/floor_3<br>.jpg>”
         }
       ]
     },
@@ -191,7 +191,7 @@ var APP_DATA = {
           "yaw": 0.5867919057941009,
           "pitch": -0.17514710232387465,
           "title": "step out<br>",
-          "text": "Text"
+          "text": “<img src= images/step out.jpg>”
         }
       ]
     },
@@ -244,7 +244,7 @@ var APP_DATA = {
           "yaw": 0.9160750695330293,
           "pitch": -0.18523081940787378,
           "title": "scaleable",
-          "text": "Text"
+          "text": “<img src= images/scaleable.jpg>”
         }
       ]
     },
@@ -291,7 +291,7 @@ var APP_DATA = {
           "yaw": 0.16895517268599392,
           "pitch": -0.09542648915567042,
           "title": "VAR break<br>",
-          "text": "Text"
+          "text": “<video controls><source src= video/VAR break.mov type= video/mov>Your browser does not support the video element.</video>”
         }
       ]
     },
@@ -338,7 +338,8 @@ var APP_DATA = {
           "yaw": 0.44130807784241277,
           "pitch": -0.46419060797331113,
           "title": "VAR music<br>",
-          "text": "Text"
+          "text":  “<img src= images/VAR music.jpg>”
+
         }
       ]
     },
@@ -379,7 +380,8 @@ var APP_DATA = {
           "yaw": 0.7226537173965788,
           "pitch": -0.07857309608268714,
           "title": "AEG der Zukunft",
-          "text": "Text"
+          "text":  “<img src= images/AEG der Zukunft.jpg>”
+
         }
       ]
     }
