@@ -291,7 +291,7 @@ var APP_DATA = {
           "yaw": 0.16895517268599392,
           "pitch": -0.09542648915567042,
           "title": "VAR break<br>",
-          "text": "<video controls><source src= video/VARbreak.mov type= video/mov>Your browser does not support the video element.</video>"
+          "text": "<video controls><source src= video/VARbreak.mp4 type= video/mp4>Your browser does not support the video element.</video>"
         }
       ]
     },
