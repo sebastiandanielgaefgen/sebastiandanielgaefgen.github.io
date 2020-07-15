@@ -113,7 +113,7 @@ var APP_DATA = {
         {
           "yaw": 0.8559883526375103,
           "pitch": -0.2696650307947692,
-          "title": "floor_2",
+          "title": "floor_2<br>",
           "text": "<img src= images/floor_2.jpg>"
         },
         {
