@@ -191,7 +191,7 @@ var APP_DATA = {
           "yaw": 0.5867919057941009,
           "pitch": -0.17514710232387465,
           "title": "step out<br>",
-          "text": "<img src= images/step out.jpg>"
+          "text": "<img src= images/stepout.jpg>"
         }
       ]
     },
@@ -291,7 +291,7 @@ var APP_DATA = {
           "yaw": 0.16895517268599392,
           "pitch": -0.09542648915567042,
           "title": "VAR break<br>",
-          "text": "<video controls><source src= video/VAR break.mov type= video/mov>Your browser does not support the video element.</video>"
+          "text": "<video controls><source src= video/VARbreak.mov type= video/mov>Your browser does not support the video element.</video>"
         }
       ]
     },
@@ -338,7 +338,7 @@ var APP_DATA = {
           "yaw": 0.44130807784241277,
           "pitch": -0.46419060797331113,
           "title": "VAR music<br>",
-          "text":  "<img src= images/VAR music.jpg>"
+          "text":  "<img src= images/VARmusic.jpg>"
 
         }
       ]
@@ -380,7 +380,7 @@ var APP_DATA = {
           "yaw": 0.7226537173965788,
           "pitch": -0.07857309608268714,
           "title": "AEG der Zukunft",
-          "text":  "<img src= images/AEG der Zukunft.jpg>"
+          "text":  "<img src= images/AEGderZukunft.jpg>"
 
         }
       ]
