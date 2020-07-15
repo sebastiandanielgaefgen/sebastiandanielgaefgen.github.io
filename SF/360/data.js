@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": 0.10562781261876353,
           "pitch": 0.13825329552615173,
           "rotation": 0,
-          "target": "5-mountain-top"
+          "target": "5-mointain-top"
         },
         {
           "yaw": -0.18277180555295658,
@@ -138,7 +138,7 @@ var APP_DATA = {
           "yaw": 2.1658118470626775,
           "pitch": -0.24941808161836398,
           "title": "floor_3<br>",
-          "text": "<img src= images/floor_3<br>.jpg>"
+          "text": "<img src= images/floor_3.jpg>"
         }
       ]
     },
@@ -296,8 +296,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "5-mountain-top",
-      "name": "mountain top",
+      "id": "5-mointain-top",
+      "name": "mointain top",
       "levels": [
         {
           "tileSize": 256,
