@@ -114,7 +114,7 @@ var APP_DATA = {
           "yaw": 0.8559883526375103,
           "pitch": -0.2696650307947692,
           "title": "floor_2",
-          "text": "<img src= images/floor_2.jpg>"
+          "text": "<br>"
         },
         {
           "yaw": -0.2556539569429166,
@@ -138,7 +138,7 @@ var APP_DATA = {
           "yaw": 2.1658118470626775,
           "pitch": -0.24941808161836398,
           "title": "floor_3<br>",
-          "text": "<img src= images/floor_3.jpg>"
+          "text": "<img src= images/floor_3<br>.jpg>"
         }
       ]
     },
