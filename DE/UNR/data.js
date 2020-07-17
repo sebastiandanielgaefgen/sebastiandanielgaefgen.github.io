@@ -30,7 +30,7 @@ var APP_DATA = {
           "yaw": 0.09310272249100393,
           "pitch": -0.11222913668685663,
           "title": "fantasiewald",
-          "text": "<video controls><source src= video/fantasiewald.mp4 type= video/mp4>Your browser does not support the video element.</video>"
+          "text": "<video controls><source src= video/teaser.mp4 type= video/mp4>Your browser does not support the video element.</video>"
         }
       ]
     }
